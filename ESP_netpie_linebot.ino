@@ -6,8 +6,8 @@ const char* ssid     = "Tech Merch"; //change this to your SSID
 const char* password = "tee24186905"; //change this to your PASSWORD
 
 const char* host = "https://made-in-basement.herokuapp.com/bot.php";//change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
-#define APPID   "1577118319"     //change this to your APPID
-#define KEY     "AFgp1v3btl25qKoYTP3fmJYQHv4eA0lx1UshF4CHNySwa+PvHhSxsmE7xZdz/PXXiS6uxnqaK0R8Mbigje//RXoZv1W++POq2WTNQPKORo15qffE+6t2l9O5q0ZVSvfNCvRiDiLRWhYQ+4lkDrJOigdB04t89/1O/w1cDnyilFU="   //change this to your KEY
+#define APPID   "U71539254ae90a1b74e4a5b65b07ddc87"     //change this to your APPID
+#define KEY     "1577118319"   //change this to your KEY
 #define SECRET  "74b3982fbff3fdb190b1aa4373daefd1"     //change this to your SECRET
 
 #define ALIAS   "NodeMCU1" //set name of drvice
